@@ -1,1 +1,1 @@
-# http://eorfanou.gtihub.io
+# http://eorfanou.github.io
